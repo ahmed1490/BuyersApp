@@ -1,11 +1,14 @@
 {
-  "name": "BuyersApp",
+  "name": "Bitz",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "react-native start"
   },
   "dependencies": {
+  	"buffer": "^3.2.1",
+    "lodash": "^3.7.0",
+    "moment": "^2.10.2",
     "react-native": "^0.14.2"
   }
 }
